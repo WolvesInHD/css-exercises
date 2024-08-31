@@ -1,0 +1,19 @@
+.odd-number {
+    background-color:#ce72e8;
+    font-family:Verdana, DejaVu, sans-serif;
+}
+
+#number-2 {
+    color: #72bbe8;
+    font-size: 36px;
+}
+
+.number-3 {
+    font-size: 24px;
+}
+
+#number-4 {
+    background-color: #58db56;
+    font-size: 24px;
+    font-weight: 700;
+}
